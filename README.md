@@ -2,8 +2,8 @@
 This is the Final Project in Object oriented programming course, Year 2.
 
 
-NAME  |
------ | ----- |
+ NAME  |
+ ----- |
 Nattapon Suwanno |
 Parisut Supchockpool |
 
