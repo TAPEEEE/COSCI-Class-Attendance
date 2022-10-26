@@ -7,6 +7,6 @@ NAME  |
 Nattapon Suwanno |
 Parisut Supchockpool |
 
-[Imgur](https://i.imgur.com/zx5vjun.png)
-[Imgur](https://i.imgur.com/vVJpF4f.png)
+<a href="https://imgur.com/zx5vjun"><img src="https://i.imgur.com/zx5vjun.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/vVJpF4f"><img src="https://i.imgur.com/vVJpF4f.png" title="source: imgur.com" /></a>
 
